@@ -1,0 +1,3 @@
+Archivo creado usando constructor (__init__)
+Este es un ejemplo de uso de constructores y destructores.
+Destructor ejecutado. Cerrando archivo.
