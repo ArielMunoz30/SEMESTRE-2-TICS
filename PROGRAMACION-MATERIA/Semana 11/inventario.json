@@ -1,0 +1,20 @@
+{
+    "001": {
+        "id": "001",
+        "nombre": "Celular",
+        "cantidad": 10,
+        "precio": 500.0
+    },
+    "002": {
+        "id": "002",
+        "nombre": "Laptop",
+        "cantidad": 10,
+        "precio": 1000.0
+    },
+    "003": {
+        "id": "003",
+        "nombre": "Camara",
+        "cantidad": 6,
+        "precio": 100.0
+    }
+}
